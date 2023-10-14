@@ -1,0 +1,166 @@
+.unit{
+    height: 240px;
+    width: 800px;
+    border: 2px solid purple !important;
+}
+.text{
+    color: white;
+    margin-left: 400px !important;
+    background-color: #ba00ba;
+    height: 50px;
+}
+.text11{
+    color: white;
+    margin-left: 90px !important;
+
+}
+.unit1{
+    width: 300px !important;
+    height: 460px !important;
+    margin-left: 250px !important;
+    border: 2px solid purple !important;
+}
+.unit2{
+    width: 400px;
+    height: 200px !important;
+    margin-top: -260px;
+    border: 2px solid #007bff !important;
+}
+.unit3{
+    width: 380px;
+    margin-left: -150px;
+    margin-top: -260px;
+    height: 200px;
+    border: 2px solid red !important;
+}
+.unit4{
+    margin-left: -100px;
+}
+.text button{
+    margin-left: 100px;
+}
+.text1 button{
+    margin-left: 150px;
+}
+.text1{
+    height: 50px!important;
+
+}
+.text2 button{
+    margin-left: 80px;
+}
+.text2{
+    height: 50px!important;
+}
+.text3 button{
+    margin-left: 110px;
+}
+.unit6{
+    margin-top: -95px;
+    height: 200px!important;
+    width: 400px;
+    border: 2px solid limegreen !important;
+}
+.text5 button{
+    margin-left: 00px;
+}
+.unit7{
+    margin-top: -95px;
+    width: 380px!important;
+    height: 200px;
+    margin-left: 40px;
+    border: 2px solid limegreen !important;
+}
+input{
+    width: 350px!important;
+}
+.unit8{
+    width: 300px;
+    margin-left: 60px;
+    margin-top: -95px;
+    height: 200px;
+    border: 2px solid limegreen !important;
+}
+.text4{
+    position: relative;
+    height: 55px;
+
+}
+.mm{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    height: 40px;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.mm1{
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    height: 40px;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.edit1{
+    position: relative;
+    left: 15px;
+    bottom: 1px;
+}
+.edit2{
+    margin-left: 100px !important;
+    position: relative;
+    bottom: 1px;
+}
+.edit3{
+    margin-left: 160px ;
+    position: relative;
+    left: 20px !important;
+}
+.edit4{
+    margin-left: 160px ;
+    position: relative;
+    left: 45px !important;
+}
+.edit5{
+    margin-left: -80px ;
+    position: relative;
+    right: 10px !important;
+}
+.edit6{
+    margin-left: -80px;
+    position: relative;
+    right: 10px !important;
+}
+.edit7{
+    margin-left: 20px !important;
+}
+.a1{
+    position: relative;
+    left: 20px;
+}
+.need1{
+    position: relative;
+    left: 20px;
+}
+.nedd{
+    position: relative;
+    left: 25px;
+    top: 12px;
+}
+.qalam{
+    position: relative;
+    right: 5px;
+}
+.xxxx{
+    position: relative;
+    left: 420px;
+    top: 40px;
+}
+
+
+
+
+

@@ -1,0 +1,86 @@
+.table{
+
+}
+.a1{
+    width: 1200px;
+}
+.search{
+    margin-left: 800px;
+    position: relative;
+    top: 40px;
+}
+.th1{
+    width: 65px;
+}
+.th2{
+    width: 230px;
+}
+.th3{
+    width: 210px;
+}
+.th4{
+    width: 130px;
+    height: 50px;
+}
+.th5{
+    width: 220px;
+}
+.th6{
+    width: 140px;
+    height: 50px;
+}
+.th7{
+    width: 180px;
+}
+.tr4{
+    height: 50px;
+}
+.zzzz{
+    position: relative;
+    left: 30px;
+    bottom: 22px;
+}
+.zzz{
+    position: relative;
+    left: 100px;
+}
+.zzz1{
+    position: relative;
+    left: 145px;
+}
+.zzz2{
+    position: relative;
+    left: 15px;
+}
+.zzz3{
+    position: relative;
+    left: 100px;
+}
+.zzz4{
+    position: relative;
+    left: 25px;
+}
+.zzz5{
+    position: relative;
+    left: 15px;
+}
+.xxx1{
+    position: relative;
+
+}
+.xxx2{
+    position: relative;
+    right: 7px;
+}
+.previous{
+    position: relative;
+    left: 370px;
+    bottom: 35px;
+    border: 1px solid darkgray;
+}
+.sonla{
+    position: relative;
+    left: 360px;
+    bottom: 35px;
+    border: 1px solid darkgray;
+}
